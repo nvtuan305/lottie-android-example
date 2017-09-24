@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Lottie Example</string>
+    <string name="app_name">Lottie Animation</string>
+    <string name="next_animation">Next Animation</string>
 </resources>

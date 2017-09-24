@@ -26,6 +26,7 @@
         android:background="@drawable/selector_btn_round"
         android:paddingLeft="@dimen/space_super_large"
         android:paddingRight="@dimen/space_super_large"
+        android:stateListAnimator="@null"
         android:text="@string/next_animation"
         android:textAllCaps="false"
         android:textColor="@android:color/white" />
